@@ -1,0 +1,20 @@
+2026-05-19 10:36:53,965 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:38:19,142 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:40:51,266 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:41:31,063 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:42:09,317 - db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:42:09,333 - db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:42:49,433 - db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:42:49,441 - db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:44:23,991 - backend.db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:44:24,023 - backend.db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:47:27,536 - backend.db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:47:27,547 - backend.db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:48:10,851 - backend.db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:48:10,863 - backend.db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:51:51,455 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:52:02,355 - backend.db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-05-19 10:52:08,219 - backend.db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:52:08,229 - backend.db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a Mercidez car
+2026-05-19 10:52:31,493 - backend.db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2026-05-19 10:52:31,512 - backend.db_helper - INFO - insert_expense called with 2024-08-28, 2300.0, Shopping, Bought a bed

@@ -1,7 +1,6 @@
 # Expense Management System
 
-This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
-
+This project was created during Python Crouse. The GUI was developed using Streamlit and backend server was developed using FastAPI.
 
 ## Project Structure
 

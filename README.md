@@ -15,7 +15,7 @@ This project was created during Python Crouse. The GUI was developed using Strea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jjalal1234/Expense-Tracking-System
+   git clone https://github.com/jjalal1234/Expense-Tracking-System.git
    cd expense-management-system
    ```
 1. **Install dependencies:**:   
